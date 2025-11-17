@@ -30,6 +30,11 @@ Confirm Password:<br>
       errorDiv.innerHTML = "";
       outputDiv.innerHTML = "";
 
+        if (FullName === "" || Email === "" || Password === "" || ConfirmPassword === "") {
+        errorDiv.innerHTML = "Please fill in all fields.";
+        return false;
+      }
+
 </body>
 </html>
 
