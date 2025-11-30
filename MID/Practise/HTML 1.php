@@ -2,7 +2,7 @@
 <html>
 <head>
 <title>Amina's Personal Webpage</title>
-<meta chatset="UTF-8">
+<meta charset="UTF-8">
 <meta name="title" content="Personal Webpage">
 <meta name="author" content="Amina">
 <meta name="description" content="This is Amina's personal webpage.">
