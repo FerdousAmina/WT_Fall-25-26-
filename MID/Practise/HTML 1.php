@@ -2,10 +2,12 @@
 <html>
 <head>
 <title>Amina's Personal Webpage</title>
+<meta chatset="UTF-8">
 <meta name="title" content="Personal Webpage">
 <meta name="author" content="Amina">
 <meta name="description" content="This is Amina's personal webpage.">
-<meta name="keywords" content="Amina, Personal, Webpage">   
+<meta name="keywords" content="Amina, Personal, Webpage">  
+<meta name="viewport" content="width=device-width, initial-scale=1.0"> 
 <style>
     table, tr, th, td{
 border: 2px solid black;
@@ -26,7 +28,7 @@ border: 2px solid black;
 <main>
 <section id="about">
     <h2>Biography</h2>
-    <p>My name is Amina Ferdous. I am a student of Computer Science and Engineering at American International University-Bangladesh (AIUB). I am passionate about web development and data science. In my free time, I enjoy reading books and exploring new technologies.</p>
+    <p style="font-size:20px">My name is Amina Ferdous. I am a student of Computer Science and Engineering at American International University-Bangladesh (AIUB). I am passionate about web development and data science. In my free time, I enjoy reading books and exploring new technologies.</p>
 </section>
 
 <section id="educational qualification">
